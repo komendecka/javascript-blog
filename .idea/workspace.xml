@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e7d2388-d0a3-4517-a6a5-f1c96b77e288" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -33,7 +35,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669461481683</updated>
-      <workItem from="1669461482966" duration="5922000" />
+      <workItem from="1669461482966" duration="6560000" />
+      <workItem from="1669744164070" duration="486000" />
+      <workItem from="1669797548217" duration="14740000" />
     </task>
     <servers />
   </component>
@@ -41,6 +45,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="125" width="2360" height="1139" key="DiffContextDialog" timestamp="1669814080908">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="100" y="125" width="2360" height="1139" key="DiffContextDialog/0.25.2560.1415/-1440.565.1440.799@0.25.2560.1415" timestamp="1669814080908" />
+    <state x="979" y="449" width="602" height="548" key="find.popup" timestamp="1669804056376">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="979" y="449" width="602" height="548" key="find.popup/0.25.2560.1415/-1440.565.1440.799@0.25.2560.1415" timestamp="1669804056376" />
     <state x="1583" y="335" width="670" height="676" key="search.everywhere.popup" timestamp="1669720404811">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
