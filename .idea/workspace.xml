@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6e7d2388-d0a3-4517-a6a5-f1c96b77e288" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
       <workItem from="1669980885130" duration="280000" />
       <workItem from="1669981174421" duration="76000" />
       <workItem from="1669981278257" duration="5454000" />
-      <workItem from="1670233018106" duration="1423000" />
+      <workItem from="1670233018106" duration="6142000" />
     </task>
     <servers />
   </component>
@@ -62,6 +65,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1702" y="590" key="#ESLint" timestamp="1670237563192">
+      <screen x="0" y="25" width="2560" height="1339" />
+    </state>
+    <state x="1702" y="590" key="#ESLint/0.25.2560.1339/-1440.565.1440.875@0.25.2560.1339" timestamp="1670237563192" />
     <state x="354" y="107" key="#Inspections" timestamp="1669989044232">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
