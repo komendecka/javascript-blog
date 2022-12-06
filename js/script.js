@@ -124,7 +124,7 @@ function generateTags(){
   let allTagsHTML = '';
   let link ='';
   for(let tag in allTags){
-    link =  '<li><a href=#tag-' + tag 'class=' + calculateTagClass(allTags[tag], tagsParams) + '>' + tag + '</a></li>';
+    link =  '<li><a href=#tag-' + tag +' class=' + calculateTagClass(allTags[tag], tagsParams) + '>' + tag + '</a></li>';
     allTagsHTML += link;
     console.log('tagLinkHTML:' , link);
   }
