@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e7d2388-d0a3-4517-a6a5-f1c96b77e288" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,7 @@
       <workItem from="1669981278257" duration="5454000" />
       <workItem from="1670233018106" duration="16442000" />
       <workItem from="1670320158420" duration="9527000" />
-      <workItem from="1670400699926" duration="8897000" />
+      <workItem from="1670400699926" duration="10559000" />
     </task>
     <servers />
   </component>
@@ -98,10 +101,11 @@
     </state>
     <state x="1117" y="425" key="#ESLint/0.25.1680.949/-1440.25.1440.875@0.25.1680.949" timestamp="1670404547316" />
     <state x="1702" y="590" key="#ESLint/0.25.2560.1339/-1440.565.1440.875@0.25.2560.1339" timestamp="1670330505451" />
-    <state x="354" y="107" key="#Inspections" timestamp="1669989044232">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state x="413" y="122" key="#Inspections" timestamp="1670411103058">
+      <screen x="0" y="25" width="1680" height="949" />
     </state>
     <state x="354" y="107" key="#Inspections/0.25.1440.799@0.25.1440.799" timestamp="1669989044232" />
+    <state x="413" y="122" key="#Inspections/0.25.1680.949/-1440.25.1440.875@0.25.1680.949" timestamp="1670411103058" />
     <state x="100" y="125" width="2360" height="1139" key="DiffContextDialog" timestamp="1669814080908">
       <screen x="0" y="25" width="2560" height="1415" />
     </state>
