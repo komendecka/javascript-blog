@@ -68,8 +68,6 @@ function generateTitleLinks(customSelector = ''){
   }
 }
 
-generateTitleLinks();
-
 function calculateTagsParams(tags){
   const params = {max:0, min: 9999999};
   for(let tag in tags){
@@ -87,7 +85,6 @@ function calculateTagClass(count, params) {
   const classNumber = Math.floor(percentage * (opts.cloudClassCount - 1) + 1);
   return opts.cloudClassPrefix + classNumber;
 }
-
 
 function generateTags(){
   /* [NEW] create a new variable allTags with an empty object */
@@ -140,8 +137,6 @@ function generateTags(){
   tagList.innerHTML = allTagsHTML;
 }
 
-generateTags();
-
 function tagClickHandler(event) {
   /* prevent default action for this event */
   event.preventDefault();
@@ -182,8 +177,6 @@ function addClickListenersToTags() {
   }
 }
 
-addClickListenersToTags();
-
 function calculateAuthorParams(authors){
   const authorParams = {max:0, min: 9999999};
   for(let author in authors){
@@ -193,7 +186,6 @@ function calculateAuthorParams(authors){
   }
   return authorParams;
 }
-
 
 function generateAuthors(){
   let allAuthors = {};
@@ -232,8 +224,6 @@ function generateAuthors(){
   }
   authorTagList.innerHTML = allAuthorsHTML;
 }
-generateAuthors();
-
 
 function authorClickHandler(event) {
   event.preventDefault();
@@ -258,4 +248,8 @@ function addClickListenersToAuthors() {
   }
 }
 
+generateTitleLinks();
+generateTags();
+generateAuthors();
+addClickListenersToTags();
 addClickListenersToAuthors();
